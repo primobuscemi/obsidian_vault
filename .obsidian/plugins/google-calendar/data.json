@@ -1,0 +1,84 @@
+{
+  "googleClientId": "258038569599-n9rajegfis1flcemcpoog9cp77sp4l20.apps.googleusercontent.com",
+  "googleClientSecret": "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",
+  "googleRefreshToken": "",
+  "useCustomClient": true,
+  "googleOAuthServer": "",
+  "refreshInterval": 10,
+  "useNotification": true,
+  "showNotice": true,
+  "autoCreateEventNotes": true,
+  "autoCreateEventNotesMarker": "obsidian",
+  "autoCreateEventKeepOpen": false,
+  "importStartOffset": 1,
+  "importEndOffset": 1,
+  "optionalNotePrefix": "",
+  "eventNoteNameFormat": "{{prefix}}{{event-title}}",
+  "defaultCalendar": "",
+  "calendarBlackList": [],
+  "insertTemplates": [],
+  "useDefaultTemplate": false,
+  "defaultTemplate": "",
+  "activateDailyNoteAddon": true,
+  "dailyNoteDotColor": "#6aa1d8",
+  "useWeeklyNotes": false,
+  "debugMode": false,
+  "timelineHourFormat": 0,
+  "atAnnotationEnabled": true,
+  "usDateFormat": true,
+  "viewSettings": {
+    "day": {
+      "type": "day",
+      "exclude": [],
+      "include": [],
+      "hourRange": [
+        0,
+        24
+      ],
+      "dayOffset": 0,
+      "timespan": 1,
+      "showAllDay": true,
+      "navigation": true
+    },
+    "week": {
+      "type": "week",
+      "exclude": [],
+      "include": [],
+      "hourRange": [
+        0,
+        24
+      ],
+      "dayOffset": 0,
+      "timespan": 7,
+      "showAllDay": true,
+      "navigation": true
+    },
+    "schedule": {
+      "type": "schedule",
+      "exclude": [],
+      "include": [],
+      "hourRange": [
+        0,
+        24
+      ],
+      "dayOffset": 0,
+      "timespan": 7,
+      "showAllDay": true,
+      "navigation": true
+    },
+    "month": {
+      "type": "month",
+      "exclude": [],
+      "include": [],
+      "dayOffset": 0
+    },
+    "web": {
+      "type": "web",
+      "theme": "auto",
+      "view": "day",
+      "dayOffset": 0,
+      "width": -1,
+      "height": 500
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"5","id":"8e4ade7c4047b20f","x":-125,"y":-30,"width":250,"height":60},
+		{"type":"text","text":"","id":"ae595f071735b0e1","x":-116,"y":-488,"width":250,"height":60},
+		{"type":"link","url":"https://www.aou-careggi.toscana.it/internet/index.php?option=com_content&view=article&id=3080&catid=92&Itemid=909&lang=it","id":"f2ef3339cd4b5b3b","x":215,"y":-428,"width":405,"height":828},
+		{"type":"text","text":"afdapp\nadfda\nadfo\n\nsctivi l'introduzione ad una delibera sulla telemedicina\n\n===\n\nLa delibera promuove l'adozione della telemedicina per migliorare l'accesso ai servizi sanitari, ridurre i costi e aumentare l'innovazione nell'assistenza sanitaria. La telemedicina può essere fornita attraverso l'uso di tecnologie digitali, come le videoconferenze, per consentire la consulenza a distanza tra medici e pazienti.\n\n===\n\n","id":"58dc41bedccd5543","x":-940,"y":-700,"width":287,"height":345,"color":"3"},
+		{"type":"file","file":"report aggiornato al 15.03.23.pdf","id":"79eae91e55754c1f","x":134,"y":-658,"width":400,"height":400},
+		{"type":"file","file":"asf.md","id":"65c2dd260714a88f","x":-903,"y":-42,"width":400,"height":400},
+		{"type":"text","text":"3 indicatori per monitorare la degenza con bibliografia\n\n1. Indice di permanentizzazione degenza Cod. 110\n\nsintetizza in due righe questo testo: \"L'indice di permanentizzazione della degenza (IPD) è un misura della durata complessiva della degenza media in un particolare settore e/o in un particolare istituto. È una misura utilizzata per valutare l'efficienza delle strutture assistenziali. Viene calcolato in base al rapporto tra il numero di giorni di degenza reali totali e il numero di degenze programmate totali. L'IPD è particolarmente utile nei casi in cui il numero di p: il rapporto tra le dimensioni di durata massima programmata e l'effettiva durata della dimissione ospedaliera (Cevenini et al., 2016).\"\n\n===\n\nL'IPD è un indice che misura la durata media della degenza in un'unità sanitaria. È calcolato come il rapporto tra i giorni di degenza effettivi e quelli previsti, ed è usato per valutare l'efficienza delle strutture sanitarie.\n\n===\n\n\n\nL'IPD è un meccanismo per monitorare l'efficienza delle strutture ospedaliere in base al rapporto tra le degenze programmate e le degenze effettivamente realizzate. La misurazione dell'IPD è uno strumento fondamentale per valutare le performance del sistema sanitario.\n2. Dimensione della degenza: un modello matematico che riflette le dimensioni del soggiorno complessivo al momento della dimissione (Radespiel, 2018).\n3. Indici di Flagg appropriata: riflette l'idoneità del livello di cure al momento della dimissione (Murdoch et al., 2019). \n\nB","id":"af8e5750954c3a79","x":-394,"y":-54,"width":454,"height":365},
+		{"type":"file","file":"2023-04-11.pdf","id":"58a53c25dd48aadf","x":-367,"y":-567,"width":427,"height":418},
+		{"type":"file","file":"Screenshot_20230410_173725.png","id":"ea5ff29211cfaa50","x":-794,"y":-332,"width":399,"height":183},
+		{"type":"file","file":"DatiSegnatura_Prot.0067127_2023_monitoraggio GR 31-12-22.pdf","id":"861f59b52789e6c3","x":-109,"y":-656,"width":609,"height":602}
+	],
+	"edges":[
+		{"id":"60ed125aa0fc7e2e","fromNode":"65c2dd260714a88f","fromSide":"top","toNode":"58dc41bedccd5543","toSide":"bottom"},
+		{"id":"b0516b1155815681","fromNode":"58dc41bedccd5543","fromSide":"right","toNode":"ae595f071735b0e1","toSide":"top"},
+		{"id":"7933765c9ce20131","fromNode":"58dc41bedccd5543","fromSide":"top","toNode":"ae595f071735b0e1","toSide":"left"}
+	]
+}

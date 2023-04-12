@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"type":"file","file":"incontro nicaragua 6-11-22/nejm_ckd_non_trattata_rischio_cardiovascolare.pdf","id":"1172cd5c2072974a","x":2878,"y":-197,"width":400,"height":400},
+		{"type":"file","file":"incontro nicaragua 6-11-22/remuzzi_nepal.pdf","id":"0448409a2494f0d1","x":3323,"y":-197,"width":400,"height":400},
+		{"type":"file","file":"incontro nicaragua 6-11-22/jama_metanalisi_ckd_non_trattata.pdf","id":"259f3bc782726e45","x":1667,"y":-1520,"width":400,"height":400},
+		{"type":"file","file":"incontro nicaragua 6-11-22/johns_hopkins_decision_tree_nicaragua.pdf","id":"fe95fadd9a5622a6","x":1667,"y":-1249,"width":400,"height":400},
+		{"type":"text","text":"asoid\n\nca","id":"01617599bd6c6b9a","x":1942,"y":-249,"width":250,"height":60},
+		{"type":"file","file":"incontro nicaragua 6-11-22/dati_progressione_CKD.xlsx","id":"bbe46fb01a0d55fc","x":0,"y":-1520,"width":400,"height":400},
+		{"type":"file","file":"incontro nicaragua 6-11-22/bmj_screening_ckd.pdf","id":"318e1e01baf42bd7","x":167,"y":-996,"width":400,"height":400},
+		{"type":"file","file":"incontro nicaragua 6-11-22/Analisi di contesto - DNA.md","id":"b6481a43249aca29","x":200,"y":-849,"width":514,"height":430},
+		{"type":"file","file":"incontro nicaragua 6-11-22/dati_progressione_CKD 1.xlsx","id":"0339ebd3ab7eb6d9","x":915,"y":-1720,"width":400,"height":400},
+		{"type":"file","file":"incontro nicaragua 6-11-22/global_conference_screening_ckd.pdf","id":"368efbcef1b4b18d","x":1022,"y":-1196,"width":400,"height":400},
+		{"type":"file","file":"incontro nicaragua 6-11-22/KDIGO_2012_CKD_GL.pdf","id":"634b90e3d08032c4","x":1222,"y":-743,"width":400,"height":400}
+	],
+	"edges":[]
+}
