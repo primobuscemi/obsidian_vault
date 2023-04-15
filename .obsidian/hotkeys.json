@@ -28,7 +28,7 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "T"
+      "key": "I"
     }
   ],
   "obsidian-plugin-toc:create-toc-next-level": [
@@ -37,7 +37,15 @@
         "Alt",
         "Mod"
       ],
-      "key": "T"
+      "key": "I"
+    }
+  ],
+  "google-calendar:open-google-calendar-week-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
     }
   ]
 }

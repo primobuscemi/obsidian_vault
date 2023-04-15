@@ -14,7 +14,7 @@
       }
     },
     "gpt3": {
-      "apiKey": "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",
+      "apiKey": "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",
       "settings": {
         "modelType": "text-davinci-003",
         "maxTokens": 150,

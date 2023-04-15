@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"type":"text","text":"Museo archeologico e chiesette Paseo de los tristes\n","id":"f667fbf9313f0dbb","x":170,"y":219,"width":250,"height":80},
+		{"type":"text","text":"Chiesa vecchia casa Ander\n","id":"7b551aed7a5ba7d7","x":170,"y":139,"width":250,"height":60},
+		{"type":"text","text":"Chiesa di San Geronimo\n","id":"63f67d5898a6cddb","x":170,"y":59,"width":250,"height":60},
+		{"type":"text","text":"Catedral \n\n","id":"f91e2294fb8a092b","x":170,"y":-21,"width":250,"height":60},
+		{"type":"text","text":"Cultura","id":"c47c7408aaf2e869","x":-280,"y":-101,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Cuevas flamenco sacromonte \n","id":"8058fcd082f3bb1e","x":200,"y":-101,"width":250,"height":60},
+		{"type":"file","file":"Pasted image 20230415174309.png","id":"6314a0053627f0d6","x":540,"y":-376,"width":400,"height":275},
+		{"type":"link","url":"https://catedraldegranada.com/precios-horarios-de-la-visita/","id":"25e7a891e4fd3a97","x":1140,"y":-101,"width":260,"height":220},
+		{"type":"file","file":"Pasted image 20230415174524.png","id":"dff09c76797b1aa6","x":760,"y":-41,"width":280,"height":200},
+		{"type":"file","file":"Pasted image 20230415174707.png","id":"0e7465b15f7716ce","x":900,"y":196,"width":400,"height":266},
+		{"type":"text","text":"Alhambra \n","id":"bcc89b210e4a8132","x":170,"y":329,"width":250,"height":60},
+		{"type":"link","url":"https://granadainfo.com/info/en/museo-arqueologico","id":"4b914585b4675f30","x":1360,"y":469,"width":400,"height":400},
+		{"type":"link","url":"https://www.alhambra-entradas.org/en/","id":"145fcfa38baf9845","x":295,"y":669,"width":400,"height":400},
+		{"type":"file","file":"Pasted image 20230415174753.png","id":"1068b2034b3a1aff","x":840,"y":669,"width":400,"height":298}
+	],
+	"edges":[
+		{"id":"a3e13e419e46349d","fromNode":"c47c7408aaf2e869","fromSide":"right","toNode":"8058fcd082f3bb1e","toSide":"left","color":"3"},
+		{"id":"528d8114546840e7","fromNode":"c47c7408aaf2e869","fromSide":"right","toNode":"f91e2294fb8a092b","toSide":"left","color":"3"},
+		{"id":"a69c3349cecc9e0b","fromNode":"c47c7408aaf2e869","fromSide":"right","toNode":"63f67d5898a6cddb","toSide":"left","color":"3"},
+		{"id":"22aa863213dade76","fromNode":"c47c7408aaf2e869","fromSide":"right","toNode":"7b551aed7a5ba7d7","toSide":"left","color":"3"},
+		{"id":"edd1ddb427dceff9","fromNode":"c47c7408aaf2e869","fromSide":"right","toNode":"f667fbf9313f0dbb","toSide":"left","color":"3"},
+		{"id":"2640bdd7ceb9b3a5","fromNode":"c47c7408aaf2e869","fromSide":"right","toNode":"bcc89b210e4a8132","toSide":"left","color":"3"},
+		{"id":"789247e268813405","fromNode":"8058fcd082f3bb1e","fromSide":"right","toNode":"6314a0053627f0d6","toSide":"left"},
+		{"id":"d54ad4d636066e3c","fromNode":"f91e2294fb8a092b","fromSide":"right","toNode":"dff09c76797b1aa6","toSide":"left"},
+		{"id":"3422c107a70a421a","fromNode":"63f67d5898a6cddb","fromSide":"right","toNode":"0e7465b15f7716ce","toSide":"left"},
+		{"id":"ca7a1814231a722e","fromNode":"f667fbf9313f0dbb","fromSide":"right","toNode":"1068b2034b3a1aff","toSide":"left"},
+		{"id":"5f37b0db5a9eaa26","fromNode":"f667fbf9313f0dbb","fromSide":"right","toNode":"4b914585b4675f30","toSide":"left"},
+		{"id":"4fadab9c09f015b2","fromNode":"bcc89b210e4a8132","fromSide":"right","toNode":"145fcfa38baf9845","toSide":"top"},
+		{"id":"39a52e9bd587edb6","fromNode":"f91e2294fb8a092b","fromSide":"right","toNode":"25e7a891e4fd3a97","toSide":"top"}
+	]
+}

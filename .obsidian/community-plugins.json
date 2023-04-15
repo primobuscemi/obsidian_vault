@@ -1,11 +1,20 @@
 [
   "obsidian-tasks-plugin",
-  "obsidian-full-calendar",
   "google-calendar",
-  "obsidian-mind-map",
   "obsidian-gpt",
   "gpt3-notes",
-  "obsidian-todoist-link",
   "obsidian-pandoc",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-transcription",
+  "obsidian-citation-plugin",
+  "obsidian-zotero-desktop-connector",
+  "canvas-mindmap",
+  "dataview",
+  "obsidian-mindmap-nextgen",
+  "obsidian-excalidraw-plugin",
+  "obsidian-enhancing-mindmap",
+  "obsidian-full-calendar",
+  "obsidian-outliner",
+  "various-complements",
+  "obsidian-git"
 ]

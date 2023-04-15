@@ -1,0 +1,3 @@
+Data: {{date}}
+Oggetto:
+Presenti:

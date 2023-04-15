@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"ouhiu","id":"7a3d4644f9a79e01","x":103,"y":-184,"width":250,"height":60},
+		{"type":"text","text":"è+ppl","id":"afd4a3d895b32b06","x":103,"y":-264,"width":250,"height":60},
+		{"type":"text","text":"giyyi","id":"e58b24931d482816","x":-347,"y":-214,"width":250,"height":60},
+		{"type":"file","file":"Pasted Image 20230415103857_593.png","id":"722f9a2aaeb0fa42","x":154,"y":80,"width":399,"height":183},
+		{"id":"39b661e7047a3ff7","x":800,"y":63,"width":400,"height":400,"type":"file","file":"tirocinio_regione/Riunione AGENAS - telemedicina - 13-04-2023.md"}
+	],
+	"edges":[
+		{"id":"054c7d19fbdfabde","fromNode":"e58b24931d482816","fromSide":"right","toNode":"afd4a3d895b32b06","toSide":"left"},
+		{"id":"885b0c6bef178a47","fromNode":"e58b24931d482816","fromSide":"right","toNode":"7a3d4644f9a79e01","toSide":"left"},
+		{"id":"edf66d4b98c00748","fromNode":"7a3d4644f9a79e01","fromSide":"bottom","toNode":"722f9a2aaeb0fa42","toSide":"top"},
+		{"id":"584238217b76121c","fromNode":"722f9a2aaeb0fa42","fromSide":"top","toNode":"39b661e7047a3ff7","toSide":"top"}
+	]
+}
