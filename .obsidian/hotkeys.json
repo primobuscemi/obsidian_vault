@@ -47,5 +47,13 @@
       ],
       "key": "K"
     }
+  ],
+  "cmenu-plugin:hide-show-menu": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
   ]
 }

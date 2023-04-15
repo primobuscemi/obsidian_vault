@@ -4,13 +4,16 @@
 
 **Discounting healthcare costs**
 
-<u>Discounting reflects the loss in economic value that occurs when there is a delay in realizing a benefit or incurring a cost. Cost-effectiveness analysis incorporates the economic fact that costs and benefits that are deferred have lower value than those that are realized immediately.</u>
 
 Discounting should not be confused with adjustment for inflation. All costs should be expressed in real terms (adjusted for inflation) before discounting is done.
 
 Both cost and outcomes should be discounted. Failure to discount outcomes as well as costs can result in a paradox described by Keeler and Cretin (1983). If costs are discounted, and outcomes are not, the cost-effectiveness of an intervention can always be improved by delaying its implementation indefinitely.
 
+
+```
 Costs and outcomes enter into the cost-effectiveness analysis expressed in their present discounted value. Most analysts discount on an annual basis. Expenses incurred in the first year are not discounted. If a discount rate of 3% is chosen, then expenses incurred in the second year are discounted by 3%, that is, they are divided 1.03. Third year expenses are divided by (1.03)2. Each successive year is discounted by an additional 3%."
+```
+
 
 **Il discounting dei costi sanitari**
 
