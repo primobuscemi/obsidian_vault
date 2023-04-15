@@ -163,12 +163,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +182,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "58a412fd62b1fae3",
+  "active": "da7b06cb9f1f1a55",
   "lastOpenFiles": [
     "gruppi_ricerca/girot/analisi_girot_covid_positivi.pdf",
     "gruppi_ricerca_1/nicaragua/nicaragua - 14-04-2023.md",

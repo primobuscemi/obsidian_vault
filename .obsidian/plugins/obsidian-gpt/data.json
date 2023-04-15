@@ -17,7 +17,7 @@
       "apiKey": "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",
       "settings": {
         "modelType": "text-davinci-003",
-        "maxTokens": 150,
+        "maxTokens": 500,
         "temperature": 1,
         "topP": 1,
         "presencePenalty": 0,
