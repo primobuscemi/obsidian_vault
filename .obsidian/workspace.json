@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gruppi_ricerca_1/nicaragua/nicaragua-14-04-2023.md",
-                "mode": "source",
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gruppi_ricerca_1/nicaragua/nicaragua-14-04-2023.md",
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gruppi_ricerca_1/nicaragua/nicaragua-14-04-2023.md",
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gruppi_ricerca_1/nicaragua/nicaragua-14-04-2023.md"
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md"
               }
             }
           },
@@ -135,22 +135,6 @@
             "type": "leaf",
             "state": {
               "type": "gptModelSettings",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d7890f9696c907f",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-day",
-              "state": {}
-            }
-          },
-          {
-            "id": "14f9f827e8014ecf",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-month",
               "state": {}
             }
           }
@@ -174,10 +158,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "58a412fd62b1fae3",
+  "active": "af211b762d946f48",
   "lastOpenFiles": [
+    "gruppi_ricerca_1/nicaragua/nicaragua-14-04-2023.docx",
     "15-04-2023.md",
-    "gruppi_ricerca_1/nicaragua/nicaragua-14-04-2023.md",
+    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
     "gruppi_ricerca/girot/analisi_girot_covid_positivi.pdf",
     "template/Riunione.md",
     "gruppi_ricerca/senegal/analisi_qualitativa/descrittiva_presentazione.md",
@@ -221,7 +206,6 @@
     "gruppi_ricerca/passi/appunti.md",
     "gruppi_ricerca/compart/comunicazione_sanitaria.md",
     "gruppi_ricerca/compart/traccia.md",
-    "gruppi_ricerca/girot/appunti_raccolta_dati.md",
     "varie/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
