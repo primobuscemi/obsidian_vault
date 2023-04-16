@@ -13,7 +13,6 @@
   "obsidian-mindmap-nextgen",
   "obsidian-excalidraw-plugin",
   "obsidian-enhancing-mindmap",
-  "obsidian-full-calendar",
   "obsidian-outliner",
   "various-complements",
   "obsidian-git",
@@ -21,5 +20,6 @@
   "better-pdf-plugin",
   "obsidian-enhancing-export",
   "obsidian-rich-links",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "excalibrain"
 ]

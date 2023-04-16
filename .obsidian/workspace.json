@@ -11,12 +11,9 @@
             "id": "58a412fd62b1fae3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "file": "excalibrain.md"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
+                "file": "excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
+                "file": "excalibrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md"
+                "file": "excalibrain.md"
               }
             }
           },
@@ -137,9 +134,16 @@
               "type": "gptModelSettings",
               "state": {}
             }
+          },
+          {
+            "id": "9f4aa6f94d83cfcb",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,12 +159,13 @@
       "command-palette:Open command palette": false,
       "gpt3-notes:GPT-3 Notes": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-rich-links:Rich Links": false
     }
   },
   "active": "58a412fd62b1fae3",
   "lastOpenFiles": [
+    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
+    "excalibrain.md",
     "16-04-2023.md",
     "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md.pdf",
     "gruppi_ricerca/nicaragua/tex2pdf.-b2683d58a291be14/input.pdf",
@@ -172,7 +177,6 @@
     "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.docx",
     "Recording 20230416111529.webm",
     "Recording 20230416111505.webm",
-    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
     "15-04-2023.md",
     "template/Riunione.md",
     "gruppi_ricerca/senegal/analisi_qualitativa/descrittiva_presentazione.md",
