@@ -19,5 +19,7 @@
   "obsidian-git",
   "cmenu-plugin",
   "better-pdf-plugin",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "obsidian-rich-links",
+  "convert-url-to-iframe"
 ]

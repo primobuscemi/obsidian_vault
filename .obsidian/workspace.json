@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -155,11 +155,19 @@
       "command-palette:Open command palette": false,
       "gpt3-notes:GPT-3 Notes": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-rich-links:Rich Links": false
     }
   },
   "active": "58a412fd62b1fae3",
   "lastOpenFiles": [
+    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md.pdf",
+    "gruppi_ricerca/nicaragua/tex2pdf.-b2683d58a291be14/input.pdf",
+    "gruppi_ricerca/nicaragua/tex2pdf.-b2683d58a291be14/input.out",
+    "gruppi_ricerca/nicaragua/tex2pdf.-b2683d58a291be14/input.aux",
+    "gruppi_ricerca/nicaragua/tex2pdf.-b2683d58a291be14/input.log",
+    "gruppi_ricerca/nicaragua/tex2pdf.-b2683d58a291be14/input.tex",
+    "gruppi_ricerca/nicaragua/tex2pdf.-b2683d58a291be14",
     "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.docx",
     "Recording 20230416111529.webm",
     "Recording 20230416111505.webm",
@@ -167,17 +175,10 @@
     "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
     "gruppi_ricerca_1/nicaragua/nicaragua-14-04-2023.docx",
     "15-04-2023.md",
-    "gruppi_ricerca/girot/analisi_girot_covid_positivi.pdf",
     "template/Riunione.md",
     "gruppi_ricerca/senegal/analisi_qualitativa/descrittiva_presentazione.md",
     "gruppi_ricerca/nicaragua/risultati_nicaragua/discussione_LMIC.png",
     "gruppi_ricerca/nicaragua/risultati_nicaragua/grafico_barre.png",
-    "gruppi_ricerca/nicaragua/letteratura/articolo_KDIGO.pdf",
-    "gruppi_ricerca/prehmo/articolo/bibliografia/vaccinazioni_pretermine/vaccinazioni_pretermine/files/2531/Hornik et al. - 2012 - Early and late onset sepsis in very-low-birth-weig.pdf",
-    "gruppi_ricerca/prehmo/articolo/bibliografia/vaccinazioni_pretermine/vaccinazioni_pretermine/files/2555/Langkamp et al. - 2001 - Delays in receipt of immunizations in low-birth-we.pdf",
-    "gruppi_ricerca/prehmo/articolo/bibliografia/vaccinazioni_pretermine/vaccinazioni_pretermine/files/2576/Gras et al. - 2016 - What timing of vaccination is potentially dangerou.pdf",
-    "gruppi_ricerca/prehmo/articolo/bibliografia/vaccinazioni_pretermine/vaccinazioni_pretermine/files/2539/Bary-Weisberg e Stein-Zamir - 2021 - Vaccination timeliness and completeness among pret.pdf",
-    "gruppi_ricerca/prehmo/articolo/bibliografia/vaccinazioni_pretermine/vaccinazioni_pretermine/files/2584/Early-Childhood-Vaccination-Status-of-Preterm.html",
     "gruppi_ricerca/senegal/analisi_qualitativa/corpus/corpus_1_68/merged_corpus_1/Subcorpus_1_68_4/merged_spec_1/afct_col.png",
     "gruppi_ricerca/senegal/analisi_qualitativa/corpus/corpus_1_68/merged_corpus_1/Subcorpus_1_68_4/merged_spec_1/afcf_col.png",
     "gruppi_ricerca/senegal/analisi_qualitativa/corpus/corpus_1_68/merged_corpus_1/Subcorpus_1_68_4/merged_spec_1/afct_row.png",
