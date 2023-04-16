@@ -110,6 +110,30 @@
           "lastUpdated": 1681583541812
         }
       }
+    },
+    "pazienti": {
+      "pazienti": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681634857756
+        }
+      }
+    },
+    "fornitori": {
+      "fornitori": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681634867010
+        }
+      }
+    },
+    "17842741935482": {
+      "17842741935482": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681635016000
+        }
+      }
     }
   }
 }
