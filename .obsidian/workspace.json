@@ -11,13 +11,43 @@
             "id": "e4e1da85942daf79",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "varie/Untitled.canvas",
+                "viewState": {
+                  "x": 740,
+                  "y": 346.5,
+                  "zoom": -0.8144443468439235
+                }
+              }
+            }
+          },
+          {
+            "id": "8ddde047416c6be5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "HERC Measuring Costs for Cost-Effectiveness Analysis.md",
-                "mode": "preview",
+                "file": "Untitled.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e928293d000ac8c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b5544ca057cb149",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -86,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HERC Measuring Costs for Cost-Effectiveness Analysis.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HERC Measuring Costs for Cost-Effectiveness Analysis.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HERC Measuring Costs for Cost-Effectiveness Analysis.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -162,40 +192,48 @@
       "command-palette:Open command palette": false,
       "gpt3-notes:GPT-3 Notes": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-rich-links:Rich Links": false
+      "obsidian-rich-links:Rich Links": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e4e1da85942daf79",
+  "active": "4b5544ca057cb149",
   "lastOpenFiles": [
+    "export/Untitled/plugin/chalkboard/README.md",
+    "export/Untitled/plugin/chalkboard/_style.css",
+    "export/Untitled/plugin/chalkboard/img/blackboard.png",
+    "export/Untitled/plugin/chalkboard/img/boardmarker-black.png",
+    "export/Untitled/plugin/chalkboard/img/boardmarker-blue.png",
+    "export/Untitled/plugin/chalkboard/img/boardmarker-green.png",
+    "export/Untitled/plugin/chalkboard/img/boardmarker-orange.png",
+    "export/Untitled/plugin/chalkboard/img/boardmarker-purple.png",
+    "export/Untitled/plugin/chalkboard/img/boardmarker-red.png",
+    "export/Untitled/plugin/chalkboard/img/boardmarker-yellow.png",
+    "export/Untitled/plugin/chalkboard/img/chalk-blue.png",
+    "export/Untitled/plugin/chalkboard/img/chalk-green.png",
+    "export/Untitled/plugin/chalkboard/img",
+    "export/Untitled/plugin/chalkboard/plugin (copy).js",
+    "export/Untitled/plugin/chalkboard/style.css",
+    "export/Untitled/plugin/chalkboard/plugin.js",
+    "export/Untitled/plugin/chalkboard",
+    "export/Untitled/plugin/chart/plugin.js",
+    "export/Untitled/plugin/chart/chart.min.js",
+    "export/Untitled/plugin/chart/README.md",
+    "export/Untitled/plugin/chart",
+    "export/Untitled/plugin/customcontrols/style.css",
+    "export/Untitled/plugin/customcontrols/README.md",
+    "export/Untitled/plugin/menu/CONTRIBUTING.md",
+    "export/Untitled/plugin/menu/README.md",
+    "varie/Untitled.canvas",
+    "Untitled.md",
+    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
+    "gruppi_ricerca/nicaragua/HERC Measuring Costs for Cost-Effectiveness Analysis.md",
     "Melinda e Melinda - Wikipedia.md",
     "16-04-2023.md",
     "chrome_clippings.md",
-    "HERC Measuring Costs for Cost-Effectiveness Analysis.md",
-    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
     "excalibrain.md",
     "15-04-2023.md",
-    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md.pdf",
-    "gruppi_ricerca/nicaragua/tex2pdf.-b2683d58a291be14/input.pdf",
-    "gruppi_ricerca/nicaragua/tex2pdf.-b2683d58a291be14/input.out",
-    "gruppi_ricerca/nicaragua/tex2pdf.-b2683d58a291be14/input.aux",
-    "gruppi_ricerca/nicaragua/tex2pdf.-b2683d58a291be14/input.log",
-    "gruppi_ricerca/nicaragua/tex2pdf.-b2683d58a291be14/input.tex",
-    "gruppi_ricerca/nicaragua/tex2pdf.-b2683d58a291be14",
-    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.docx",
-    "Recording 20230416111529.webm",
-    "Recording 20230416111505.webm",
     "template/Riunione.md",
     "gruppi_ricerca/senegal/analisi_qualitativa/descrittiva_presentazione.md",
-    "gruppi_ricerca/nicaragua/risultati_nicaragua/discussione_LMIC.png",
-    "gruppi_ricerca/nicaragua/risultati_nicaragua/grafico_barre.png",
-    "gruppi_ricerca/senegal/analisi_qualitativa/corpus/corpus_1_68/merged_corpus_1/Subcorpus_1_68_4/merged_spec_1/afct_col.png",
-    "gruppi_ricerca/senegal/analisi_qualitativa/corpus/corpus_1_68/merged_corpus_1/Subcorpus_1_68_4/merged_spec_1/afcf_col.png",
-    "gruppi_ricerca/senegal/analisi_qualitativa/corpus/corpus_1_68/merged_corpus_1/Subcorpus_1_68_4/merged_spec_1/afct_row.png",
-    "gruppi_ricerca/senegal/analisi_qualitativa/corpus/corpus_1_68/merged_corpus_1/Subcorpus_1_68_4/merged_spec_1/afcf_row.png",
-    "gruppi_ricerca/senegal/analisi_qualitativa/corpus/corpus_1_68/merged_corpus_1/Subcorpus_1_68_4/merged_stat_1/zipf.png",
-    "gruppi_ricerca/senegal/analisi_qualitativa/corpus/corpus_1_68/merged_corpus_1/Subcorpus_1_68_4/merged_wordcloud_1/nuage_1.png",
-    "gruppi_ricerca/senegal/analisi_qualitativa/corpus/corpus_1_68/merged_corpus_1/Subcorpus_1_68_4/merged_wordcloud_2/nuage_1.png",
-    "gruppi_ricerca/senegal/analisi_qualitativa/corpus/corpus_1_68/merged_corpus_1/Subcorpus_1_68_4/merged_simitxt_1/graph_simi_1.png",
     "gruppi_ricerca/covid_hl/abstract_siti/abstract_articolo_3/abstract_articolo_3.md",
     "gruppi_ricerca/covid_hl/abstract_siti/abstract_articolo_2/abstract_articolo_2.md",
     "gruppi_ricerca/covid_hl/abstract_siti/abstract_articolo_1/abstract_articolo_2.md",
@@ -207,13 +245,6 @@
     "gruppi_ricerca/prehmo/articolo/discussione.md",
     "gruppi_ricerca/prehmo/questionario_neurosviluppo/appunti.md",
     "gruppi_ricerca/pma/ultimo_articolo.md",
-    "gruppi_ricerca/rsv/appunti.md",
-    "gruppi_ricerca/covid_hl/appunti_29_04.md",
-    "gruppi_ricerca/covid_hl/variabili.md",
-    "gruppi_ricerca/studio_vasculiti/variabili_dubbi.md",
-    "gruppi_ricerca/studio_vasculiti/appunti.md",
-    "gruppi_ricerca/prehmo/questionario.md",
-    "varie/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
