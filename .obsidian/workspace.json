@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7f60ed98e8e67ce7",
+        "id": "c5bf10e916c86e18",
         "type": "tabs",
         "children": [
           {
-            "id": "58a412fd62b1fae3",
+            "id": "e4e1da85942daf79",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "excalibrain.md"
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excalibrain.md",
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excalibrain.md",
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excalibrain.md"
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md"
               }
             }
           },
@@ -162,10 +165,10 @@
       "obsidian-rich-links:Rich Links": false
     }
   },
-  "active": "58a412fd62b1fae3",
+  "active": "e4e1da85942daf79",
   "lastOpenFiles": [
-    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
     "excalibrain.md",
+    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
     "16-04-2023.md",
     "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md.pdf",
     "gruppi_ricerca/nicaragua/tex2pdf.-b2683d58a291be14/input.pdf",

@@ -12,9 +12,15 @@ tags: [excalidraw]
 ---
 
 # Text Elements
-nicaragua-14-04-2023 ^htbwwo0x
+🚀 To get started
+select a document using the search in the top left or
+open a document in another pane.
 
-[[gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md]] ^LOotfeEQ
+✨ For the best experience enable 'Open in adjacent pane'
+in Excalidraw settings under 'Links and Transclusion'.
+
+⚠ ExcaliBrain may need to wait for DataView to initialize its index.
+This can take up to a few minutes after starting Obsidian. ^87Yf5QCq
 
 %%
 # Drawing
@@ -25,168 +31,39 @@ nicaragua-14-04-2023 ^htbwwo0x
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.22",
 	"elements": [
 		{
-			"id": "LOotfeEQ",
-			"type": "rectangle",
-			"x": -194.5703125,
-			"y": -72,
-			"width": 371.5625,
-			"height": 56,
-			"angle": 0,
-			"strokeColor": "#00000000",
-			"backgroundColor": "#C49A13FF",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 41111,
-			"version": 1,
-			"versionNonce": 272823085,
-			"updated": 1681665519788,
-			"isDeleted": false,
-			"groupIds": [
-				"tiXf6jzO"
-			],
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "htbwwo0x"
-				}
-			],
-			"link": "[[gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md]]",
-			"locked": false
-		},
-		{
-			"text": "nicaragua-14-04-2023",
-			"fontSize": 30,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"id": "htbwwo0x",
 			"type": "text",
-			"x": -184.5703125,
-			"y": -62,
-			"width": 351.5625,
-			"height": 36,
-			"angle": 0,
-			"strokeColor": "#000000ff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
+			"version": 1,
+			"versionNonce": 57165591,
+			"isDeleted": false,
+			"id": "87Yf5QCq",
+			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
-			"roughness": 0,
+			"roughness": 1,
 			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 31791,
-			"version": 1,
-			"versionNonce": 35437478,
-			"updated": 1681665519788,
-			"isDeleted": false,
-			"groupIds": [
-				"tiXf6jzO"
-			],
+			"angle": 0,
+			"x": 0,
+			"y": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "transparent",
+			"width": 803.0859375,
+			"height": 216,
+			"seed": 64807,
+			"groupIds": [],
+			"roundness": null,
 			"boundElements": [],
+			"updated": 1681665574771,
 			"link": null,
 			"locked": false,
-			"containerId": "LOotfeEQ",
-			"originalText": "nicaragua-14-04-2023",
-			"rawText": "nicaragua-14-04-2023",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"text": "🚀 To get started\nselect a document using the search in the top left or\nopen a document in another pane.\n\n✨ For the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.\n\n⚠ ExcaliBrain may need to wait for DataView to initialize its index.\nThis can take up to a few minutes after starting Obsidian.",
+			"rawText": "🚀 To get started\nselect a document using the search in the top left or\nopen a document in another pane.\n\n✨ For the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.\n\n⚠ ExcaliBrain may need to wait for DataView to initialize its index.\nThis can take up to a few minutes after starting Obsidian.",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "🚀 To get started\nselect a document using the search in the top left or\nopen a document in another pane.\n\n✨ For the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.\n\n⚠ ExcaliBrain may need to wait for DataView to initialize its index.\nThis can take up to a few minutes after starting Obsidian.",
 			"lineHeight": 1.2
-		},
-		{
-			"id": "8cR68xwv",
-			"type": "ellipse",
-			"x": -204.5703125,
-			"y": -49,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 99336,
-			"version": 1,
-			"versionNonce": 396734067,
-			"updated": 1681665519788,
-			"isDeleted": false,
-			"groupIds": [
-				"tiXf6jzO"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "VisgwTly",
-			"type": "ellipse",
-			"x": -20,
-			"y": -82,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 48247,
-			"version": 1,
-			"versionNonce": 361268908,
-			"updated": 1681665519788,
-			"isDeleted": false,
-			"groupIds": [
-				"tiXf6jzO"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "kLHl4XOw",
-			"type": "ellipse",
-			"x": 10,
-			"y": -16,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 58818,
-			"version": 1,
-			"versionNonce": 564958852,
-			"updated": 1681665519788,
-			"isDeleted": false,
-			"groupIds": [
-				"tiXf6jzO"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
 		}
 	],
 	"appState": {
@@ -204,10 +81,10 @@ nicaragua-14-04-2023 ^htbwwo0x
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 526.3376909607703,
-		"scrollY": 495.43916913754424,
+		"scrollX": 1231.000000000001,
+		"scrollY": 731.7864583333338,
 		"zoom": {
-			"value": 0.9722920096315002
+			"value": 0.5999999999999996
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
