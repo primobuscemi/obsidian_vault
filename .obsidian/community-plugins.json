@@ -24,5 +24,6 @@
   "excalibrain",
   "obsidian-clipper",
   "obsidian-local-rest-api",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "marp"
 ]

@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -37,20 +37,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "e928293d000ac8c8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4b5544ca057cb149",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md"
               }
             }
           },
@@ -193,11 +179,17 @@
       "gpt3-notes:GPT-3 Notes": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-rich-links:Rich Links": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "marp:Marp: Open Preview": false
     }
   },
-  "active": "4b5544ca057cb149",
+  "active": "8ddde047416c6be5",
   "lastOpenFiles": [
+    "gruppi_ricerca/nicaragua/HERC Measuring Costs for Cost-Effectiveness Analysis.md",
+    "tirocinio_regione/Riunione AGENAS - telemedicina - 13-04-2023.md",
+    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
+    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.pptx",
+    "Untitled.md",
     "export/Untitled/plugin/chalkboard/README.md",
     "export/Untitled/plugin/chalkboard/_style.css",
     "export/Untitled/plugin/chalkboard/img/blackboard.png",
@@ -219,14 +211,10 @@
     "export/Untitled/plugin/chart/chart.min.js",
     "export/Untitled/plugin/chart/README.md",
     "export/Untitled/plugin/chart",
-    "export/Untitled/plugin/customcontrols/style.css",
     "export/Untitled/plugin/customcontrols/README.md",
     "export/Untitled/plugin/menu/CONTRIBUTING.md",
     "export/Untitled/plugin/menu/README.md",
     "varie/Untitled.canvas",
-    "Untitled.md",
-    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
-    "gruppi_ricerca/nicaragua/HERC Measuring Costs for Cost-Effectiveness Analysis.md",
     "Melinda e Melinda - Wikipedia.md",
     "16-04-2023.md",
     "chrome_clippings.md",
@@ -244,7 +232,6 @@
     "gruppi_ricerca/USCA/abstract/dati_mancanti.md",
     "gruppi_ricerca/prehmo/articolo/discussione.md",
     "gruppi_ricerca/prehmo/questionario_neurosviluppo/appunti.md",
-    "gruppi_ricerca/pma/ultimo_articolo.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
