@@ -22,5 +22,6 @@
   "obsidian-rich-links",
   "convert-url-to-iframe",
   "excalibrain",
-  "obsidian-clipper"
+  "obsidian-clipper",
+  "obsidian-local-rest-api"
 ]
