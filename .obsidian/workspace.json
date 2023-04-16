@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
+                "file": "chrome_clippings.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
+                "file": "chrome_clippings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
+                "file": "chrome_clippings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md"
+                "file": "chrome_clippings.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "e4e1da85942daf79",
   "lastOpenFiles": [
-    "excalibrain.md",
     "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
+    "chrome_clippings.md",
+    "excalibrain.md",
     "16-04-2023.md",
     "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md.pdf",
     "gruppi_ricerca/nicaragua/tex2pdf.-b2683d58a291be14/input.pdf",
@@ -212,7 +213,6 @@
     "gruppi_ricerca/prehmo/questionario.md",
     "gruppi_ricerca/prehmo/abstract.md",
     "gruppi_ricerca/passi/appunti.md",
-    "gruppi_ricerca/compart/comunicazione_sanitaria.md",
     "varie/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
