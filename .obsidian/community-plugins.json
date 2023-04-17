@@ -25,5 +25,7 @@
   "obsidian-clipper",
   "obsidian-local-rest-api",
   "obsidian-advanced-slides",
-  "marp"
+  "marp",
+  "omnisearch",
+  "text-extractor"
 ]
