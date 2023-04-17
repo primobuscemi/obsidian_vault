@@ -11,5 +11,12 @@ Con il **teleconsulto con i MMG**, previa creazione di una specifica agenda Arch
 
 Accanto al teleconsulto è stata istituita la **casella di posta elettronica di SOD** in ArchiMed. È parte di un dispositivo medico per la comunicazione e lo scambio di documentazione sanitaria, predisposto in ArchiMed. Il MMG può utilizzarla per contattare la SOD invece del singolo medico. La SOD risponde alle richieste secondo gli indirizzi interni impartiti dal rispettivo Direttore
 
-  
+[[RELAZIONE BILANCIO PREVISIONE 2023@13032023.docx]]
 
+**SVILUPPO TELEMEDICINA**
+
+Obiettivo introdotto nel 2021, riconfermato ed ampliato anche per il 2022 e 2023, è quello di sviluppare le prestazioni di telemedicina, più nello specifico le televisite di controllo, in modo tale che rappresentino un elemento concreto di innovazione organizzativa nel processo assistenziale. Negli anni di diffusione della pandemia, un rinnovamento organizzativo e culturale teso alla diffusione, laddove possibile, della telemedicina, ha permesso sia di garantire la massima continuità assistenziale del paziente, sia di ridurre al minimo il rischio di diffusione del virus ad utenti, operatori e familiari.
+
+Tale modalità di contatto fra paziente e professionista può essere utile anche al cessare della pandemia e rappresenta sicuramente, per alcuni ambiti e per alcune tipologie di pazienti, un nuovo canale che, se ben strutturato, può portare anche molti vantaggi all’utenza.
+
+E’ stato pertanto richiesto alle diverse strutture dell’Azienda di garantire una progressiva estensione e applicazione dell’utilizzo delle televisite di controllo in tutti gli ambiti assistenziali in cui la telemedicina possa contribuire a migliorare la qualità dell'assistenza e la continuità della presa in carico.
