@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
+                "file": "17-04-2023.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c0056564efc86b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tirocinio_careggi/telemedicina da relazione bilancio careggi 2022.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
+                "file": "tirocinio_careggi/telemedicina da relazione bilancio careggi 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
+                "file": "tirocinio_careggi/telemedicina da relazione bilancio careggi 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md"
+                "file": "tirocinio_careggi/telemedicina da relazione bilancio careggi 2022.md"
               }
             }
           },
@@ -167,17 +181,22 @@
       "marp:Marp: Open Preview": false
     }
   },
-  "active": "e4e1da85942daf79",
+  "active": "af211b762d946f48",
   "lastOpenFiles": [
+    "tirocinio_careggi/RELAZIONE DG BILANCIO DI ESERCIZIO 2022@14042023.doc",
+    "tirocinio_careggi/RELAZIONE BILANCIO PREVISIONE 2023@13032023.docx",
+    "17-04-2023.md",
+    "tirocinio_careggi/telemedicina da relazione bilancio careggi 2022.md",
+    "tirocinio_careggi",
+    "tirocinio_regione/Untitled",
+    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
     "varie/Dove portare tuffetto a Granada.md",
     "tirocinio_regione/Riunione AGENAS - telemedicina - 13-04-2023.md",
     "Untitled.md",
     "template/Riunione.md",
     "varie/Untitled.canvas",
-    "17-04-2023.md",
     "HERC Measuring Costs for Cost-Effectiveness Analysis.md",
     "Sogni e delitti - Wikipedia.md",
-    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
     "gruppi_ricerca/nicaragua/HERC Measuring Costs for Cost-Effectiveness Analysis.md",
     "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.pptx",
     "export/Untitled/plugin/chalkboard/README.md",
@@ -197,10 +216,7 @@
     "export/Untitled/plugin/chalkboard/style.css",
     "export/Untitled/plugin/chalkboard/plugin.js",
     "export/Untitled/plugin/chalkboard",
-    "export/Untitled/plugin/chart/plugin.js",
-    "export/Untitled/plugin/chart/chart.min.js",
     "export/Untitled/plugin/chart/README.md",
-    "export/Untitled/plugin/chart",
     "export/Untitled/plugin/customcontrols/README.md",
     "export/Untitled/plugin/menu/CONTRIBUTING.md",
     "export/Untitled/plugin/menu/README.md",
@@ -214,8 +230,6 @@
     "gruppi_ricerca/covid_hl/abstract_siti/abstract_articolo_2/abstract_articolo_2.md",
     "gruppi_ricerca/covid_hl/abstract_siti/abstract_articolo_1/abstract_articolo_2.md",
     "gruppi_ricerca/USCA/abstract/dati_24_10_22/appunti.md",
-    "gruppi_ricerca/hl_caregiver/paper_1/correzioni_2022/riviste.md",
-    "gruppi_ricerca/covid_hl/abstract_siti/presentazione_siti.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
