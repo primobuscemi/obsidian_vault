@@ -11,8 +11,13 @@
             "id": "e4e1da85942daf79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "18-04-2023.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "18-04-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "18-04-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "18-04-2023.md"
+              }
             }
           },
           {
@@ -159,8 +168,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "af211b762d946f48",
+  "active": "e4e1da85942daf79",
   "lastOpenFiles": [
+    "18-04-2023.md",
     "gruppi_ricerca/nicaragua/screening_markov_R_germany.pdf",
     "gruppi_ricerca/nicaragua/2. GKHA 2019 regional slides_Latin Am v1.2.pdf",
     "17-04-2023.md",
