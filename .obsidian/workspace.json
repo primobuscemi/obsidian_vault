@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c5bf10e916c86e18",
+        "id": "112d7ac7fb7d1d24",
         "type": "tabs",
         "children": [
           {
-            "id": "e4e1da85942daf79",
+            "id": "6ac51500788333bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "18-04-2023.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18-04-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18-04-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "18-04-2023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +159,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e4e1da85942daf79",
+  "active": "6ac51500788333bf",
   "lastOpenFiles": [
+    "19-04-2023.md",
     "18-04-2023.md",
     "gruppi_ricerca/nicaragua/screening_markov_R_germany.pdf",
     "gruppi_ricerca/nicaragua/2. GKHA 2019 regional slides_Latin Am v1.2.pdf",
@@ -216,7 +208,6 @@
     "gruppi_ricerca/covid_hl/abstract_siti/abstract_articolo_3/abstract_articolo_3.md",
     "gruppi_ricerca/covid_hl/abstract_siti/abstract_articolo_2/abstract_articolo_2.md",
     "gruppi_ricerca/covid_hl/abstract_siti/abstract_articolo_1/abstract_articolo_2.md",
-    "gruppi_ricerca/USCA/abstract/dati_24_10_22/appunti.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
