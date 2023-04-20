@@ -11,8 +11,13 @@
             "id": "6ac51500788333bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Riunione COT- device telemedicina.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "31ced8a8a7a94f59",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Riunione COT- device telemedicina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Riunione COT- device telemedicina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Riunione COT- device telemedicina.md"
+              }
             }
           },
           {
@@ -141,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +170,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6ac51500788333bf",
+  "active": "97405d37b4d0d30f",
   "lastOpenFiles": [
+    "Riunione COT- device telemedicina.md",
     "19-04-2023.md",
     "18-04-2023.md",
     "gruppi_ricerca/nicaragua/screening_markov_R_germany.pdf",
@@ -207,7 +219,6 @@
     "gruppi_ricerca/senegal/analisi_qualitativa/descrittiva_presentazione.md",
     "gruppi_ricerca/covid_hl/abstract_siti/abstract_articolo_3/abstract_articolo_3.md",
     "gruppi_ricerca/covid_hl/abstract_siti/abstract_articolo_2/abstract_articolo_2.md",
-    "gruppi_ricerca/covid_hl/abstract_siti/abstract_articolo_1/abstract_articolo_2.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
