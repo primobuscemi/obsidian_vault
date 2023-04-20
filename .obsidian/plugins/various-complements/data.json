@@ -98,8 +98,8 @@
     "AGENAS": {
       "AGENAS": {
         "currentVault": {
-          "count": 2,
-          "lastUpdated": 1681997312640
+          "count": 3,
+          "lastUpdated": 1681998028274
         }
       }
     },
@@ -156,6 +156,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1681996275614
+        }
+      }
+    },
+    "investimenti": {
+      "investimenti": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681997731282
         }
       }
     }
