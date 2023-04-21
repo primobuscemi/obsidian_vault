@@ -13,11 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21-04-2023.md",
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
+            }
+          },
+          {
+            "id": "8710bad97b24e47f",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-week",
+              "state": {}
             }
           }
         ]
@@ -70,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "31ced8a8a7a94f59",
@@ -87,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21-04-2023.md",
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21-04-2023.md",
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21-04-2023.md"
+                "file": "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md"
               }
             }
           },
@@ -147,12 +154,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +179,10 @@
   },
   "active": "6ac51500788333bf",
   "lastOpenFiles": [
-    "20-04-2023.md",
+    "gruppi_ricerca/nicaragua/HERC Measuring Costs for Cost-Effectiveness Analysis.md",
+    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
     "21-04-2023.md",
+    "20-04-2023.md",
     "Riunione AGENAS - COT-device telemedicina.md",
     "Riunione AGENAS - COT-device telemedicina.docx",
     "Riunione COT- device telemedicina.docx",
@@ -191,7 +200,6 @@
     "tirocinio_careggi/telemedicina da relazione bilancio careggi 2022.md",
     "tirocinio_careggi",
     "tirocinio_regione/Untitled",
-    "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.md",
     "varie/Dove portare tuffetto a Granada.md",
     "tirocinio_regione/Riunione AGENAS - telemedicina - 13-04-2023.md",
     "Untitled.md",
@@ -199,7 +207,6 @@
     "varie/Untitled.canvas",
     "HERC Measuring Costs for Cost-Effectiveness Analysis.md",
     "Sogni e delitti - Wikipedia.md",
-    "gruppi_ricerca/nicaragua/HERC Measuring Costs for Cost-Effectiveness Analysis.md",
     "gruppi_ricerca/nicaragua/nicaragua-14-04-2023.pptx",
     "export/Untitled/plugin/chalkboard/README.md",
     "export/Untitled/plugin/chalkboard/img/blackboard.png",
